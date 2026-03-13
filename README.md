@@ -9,7 +9,7 @@
 
 ## Overview
 
-RasterMan uses adaptive C++ rasterization to render Manhattan plots of million-scale GWAS / eQTL datasets with **~20× speedup** and **~87% memory reduction** compared to standard `ggplot2`. Three usage modes are available:
+RasterMan uses adaptive C++ rasterization to render Manhattan plots of million-scale GWAS / eQTL datasets with **~18× speedup** and **~60% memory reduction** compared to standard `qqman`. Three usage modes are available:
 
 | Mode | When to use |
 |------|-------------|
